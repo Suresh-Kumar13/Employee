@@ -5,7 +5,7 @@
   "homepage": "https://safdarjamal.github.io/crud-app/",
   "author": {
     "name": "Safdar Jamal",
-    "url": "https://safdarjamal.github.io"
+    "url": "."
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
